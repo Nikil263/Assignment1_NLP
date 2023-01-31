@@ -5,7 +5,7 @@ Done by
 
 Nikil Rajasekaran Sargunar Bhoopathy and Swarnamukhi Chintalapudi
 
-In this Assignment, the Minimum Edit Distance for the misspelled words in **Brickbek** corpus is calculated for every word in the **Wordnet** corpus. The aim of this assignment to find the correct spelling of the misspelled word and the success at k (s@k) to measure the success of result from the top-k similar result (minimum edit distance) from the MED algorithm. We find the success at k for k = {1, 5, 10}. 
+In this Assignment, the Minimum Edit Distance for the misspelled words in **Brikbeck** corpus is calculated for every word in the **Wordnet** corpus. The aim of this assignment to find the correct spelling of the misspelled word and the success at k (s@k) to measure the success of result from the top-k similar result (minimum edit distance) from the MED algorithm. We find the success at k for k = {1, 5, 10}. 
 
 ## Setup
 To install all the necessary libraries required to run this project, Run the following command.
