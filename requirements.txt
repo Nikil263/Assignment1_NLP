@@ -1,4 +1,5 @@
 json
 pytrec-eval-terrier
 time
+nltk
 multiprocessing
